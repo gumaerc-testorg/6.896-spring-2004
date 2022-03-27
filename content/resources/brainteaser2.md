@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: e8e07143-eb76-063a-95ad-5b298391fe5c
 resourcetype: Document
 title: brainteaser2.pdf
 uid: 2a07f376-f51c-e6cc-7f74-e05c8df75190
