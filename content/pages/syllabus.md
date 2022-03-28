@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Syllabus
 uid: 05fd26c2-6c86-5f44-89f6-9678ba2a6c14
 ---
@@ -18,7 +19,7 @@ This class covers mathematical foundations of parallel hardware, from computer a
 
 The class is suitable for both theory and systems students. M.Eng. students can use the class to satisfy their Engineering Concentration in either Theoretical Computer Science or Computer Systems and Architecture Engineering.
 
-A detailed schedule of topic coverage will appear in the [course calendar]({{< baseurl >}}/pages/calendar).
+A detailed schedule of topic coverage will appear in the {{< resource_link 5850ead6-9503-4604-22db-260670ac9423 "course calendar" >}}.
 
 Prerequisites
 -------------
