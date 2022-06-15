@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/fea5f793d223cf8c4708f23c861df54b_lect11.pdf
+file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/fea5f793d223cf8c4708f23c861df54b_lect11.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
