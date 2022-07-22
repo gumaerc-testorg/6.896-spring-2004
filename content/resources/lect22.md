@@ -5,6 +5,7 @@ file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/51ff70f10a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect22.pdf
 uid: 51ff70f1-0a2b-c6ce-5852-7236941caa30
 ---
 Area Universal Networks, Butterfly Fat-Trees, Routing on Fat Trees
-

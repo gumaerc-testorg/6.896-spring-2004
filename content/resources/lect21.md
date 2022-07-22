@@ -5,6 +5,7 @@ file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/2620ba38c5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect21.pdf
 uid: 2620ba38-c53f-20d3-1198-fbfd2e33ba9b
 ---
 Theorem, Corollary, Comparision of Networks.
-

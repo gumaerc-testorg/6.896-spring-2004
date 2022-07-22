@@ -5,6 +5,7 @@ file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/0803e68ea9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol10.pdf
 uid: 0803e68e-a921-9833-7ed9-5bd6cd3fece9
 ---
 Problems and solutions using drawing programs, proofs and solutions.
-

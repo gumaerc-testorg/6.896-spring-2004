@@ -5,6 +5,7 @@ file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/659fecb03a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol7.pdf
 uid: 659fecb0-3ae5-6418-2664-1513b0579d71
 ---
 Problems and solutions on various kinds of networks and arrays.
-

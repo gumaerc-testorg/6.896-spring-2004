@@ -5,6 +5,7 @@ file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/3bdceacbb7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect17.pdf
 uid: 3bdceacb-b722-a555-2f81-3170187bd285
 ---
 VLSI: Binary Tree Layout
-
