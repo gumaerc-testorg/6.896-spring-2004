@@ -2,6 +2,7 @@
 content_type: resource
 description: Hypercube Network
 file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/b62397443ab153caf790d2161295e0bf_lect12.pdf
+file_size: 109124
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
