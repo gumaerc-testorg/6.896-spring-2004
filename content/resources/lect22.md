@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Area Universal Networks, Butterfly Fat-Trees, Routing on Fat Trees
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/51ff70f10a2bc6ce58527236941caa30_lect22.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/51ff70f10a2bc6ce58527236941caa30_lect22.pdf
 file_size: 292502
 file_type: application/pdf
 learning_resource_types:

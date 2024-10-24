@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem to determine the minimum vertical separation between 2 modules
   on a Circuit Board.
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/2a07f376f51ce6cc7f74e05c8df75190_brainteaser2.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/2a07f376f51ce6cc7f74e05c8df75190_brainteaser2.pdf
 file_size: 73703
 file_type: application/pdf
 learning_resource_types: []
