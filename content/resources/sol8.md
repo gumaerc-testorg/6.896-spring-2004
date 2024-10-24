@@ -2,7 +2,7 @@
 content_type: resource
 description: Problems  and solutions on Transistor and CMOS equivalent NOR Gate and
   network routing.
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/fb285395439d09ae66a845a008e614b7_sol8.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/fb285395439d09ae66a845a008e614b7_sol8.pdf
 file_size: 77136
 file_type: application/pdf
 learning_resource_types:

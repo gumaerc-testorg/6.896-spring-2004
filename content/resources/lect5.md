@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/e0f09de7958efc747b04564ad5ce0dcd_lect5.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/e0f09de7958efc747b04564ad5ce0dcd_lect5.pdf
 file_size: 234698
 file_type: application/pdf
 learning_resource_types:
