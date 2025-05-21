@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Theorem, Corollary, Comparision of Networks.
-file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/2620ba38c53f20d31198fbfd2e33ba9b_lect21.pdf
+file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/2620ba38c53f20d31198fbfd2e33ba9b_lect21.pdf
 file_size: 103243
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Design question for an effective algorithm.
-file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/139b633c04f39f86523da2b264ed3f2c_ps1.pdf
+file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/139b633c04f39f86523da2b264ed3f2c_ps1.pdf
 file_size: 25660
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems and solutions on comparision and transposition networks.
-file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/20e1e4a0b6e985146c24b48fb6888108_sol6.pdf
+file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/20e1e4a0b6e985146c24b48fb6888108_sol6.pdf
 file_size: 56083
 file_type: application/pdf
 learning_resource_types:
