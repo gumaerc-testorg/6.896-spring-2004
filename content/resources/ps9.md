@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems and Lemma on VLSI Layout and Binary Tree.
-file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/2983f06f18f7709f2f5ad8a424dcb228_ps9.pdf
+file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/2983f06f18f7709f2f5ad8a424dcb228_ps9.pdf
 file_size: 25163
 file_type: application/pdf
 learning_resource_types:

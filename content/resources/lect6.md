@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Taxonomy of Fixed Connection Networks (Finite State Machines)
-file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/297657df60bdd1d3a081c18632fe0b2e_lect6.pdf
+file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/297657df60bdd1d3a081c18632fe0b2e_lect6.pdf
 file_size: 403926
 file_type: application/pdf
 learning_resource_types:
