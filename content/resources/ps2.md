@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems on Fast Addition.
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/198366dcbdb4d779d1132e6e9593bdce_ps2.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/198366dcbdb4d779d1132e6e9593bdce_ps2.pdf
 file_size: 33544
 file_type: application/pdf
 learning_resource_types:
