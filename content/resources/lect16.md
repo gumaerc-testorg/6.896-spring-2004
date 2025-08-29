@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: More CMOS Circuits
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/a0f53a536cb648a78c15c6642cfd6e57_lect16.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/a0f53a536cb648a78c15c6642cfd6e57_lect16.pdf
 file_size: 106777
 file_type: application/pdf
 learning_resource_types:

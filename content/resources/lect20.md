@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'VLSI Layout: General Layout Strategy'
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/3d194858e8d452de6cf9f3a2305e668e_lect20.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/3d194858e8d452de6cf9f3a2305e668e_lect20.pdf
 file_size: 316844
 file_type: application/pdf
 learning_resource_types:

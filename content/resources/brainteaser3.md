@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem statement for the design of 'Soldier Automaton' problem.
-file: /courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/82535d09c84503404a21639f73b8f104_brainteaser3.pdf
+file: /ol-ocw-studio-app/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/82535d09c84503404a21639f73b8f104_brainteaser3.pdf
 file_size: 80930
 file_type: application/pdf
 learning_resource_types: []
