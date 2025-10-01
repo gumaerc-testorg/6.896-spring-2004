@@ -35,7 +35,7 @@
     "website": "6-896-theory-of-parallel-hardware-sma-5511-spring-2004"
   },
   "course_title": "Theory of Parallel Hardware (SMA 5511)",
-  "course_description": "6.896\u00a0covers mathematical foundations of parallel hardware, from computer arithmetic to physical design, focusing on algorithmic underpinnings. Topics covered include: arithmetic circuits, parallel prefix, systolic arrays, retiming, clocking methodologies, boolean logic, sorting networks, interconnection networks, hypercubic networks, P-completeness, VLSI layout theory, reconfigurable wiring, fat-trees, and area-time complexity.\n\nThis course was also taught as part of the [Singapore-MIT Alliance](http://web.mit.edu/sma/) (SMA) programme as course number SMA 5511 (Theory of Parallel Hardware).\n",
+  "course_description": "6.896\u00a0covers mathematical foundations of parallel hardware, from computer arithmetic to physical design, focusing on algorithmic underpinnings. Topics covered include: arithmetic circuits, parallel prefix, systolic arrays, retiming, clocking methodologies, boolean logic, sorting networks, interconnection networks, hypercubic networks, P-completeness, VLSI layout theory, reconfigurable wiring, fat-trees, and area-time complexity.\n\nThis course was also taught as part of the {{% resource_link \"f4e00af1-abfa-4efd-ac4f-8ed333ed2e6e\" \"Singapore-MIT Alliance\" %}} (SMA) programme as course number SMA 5511 (Theory of Parallel Hardware).\n",
   "department_numbers": [
     "6"
   ],
